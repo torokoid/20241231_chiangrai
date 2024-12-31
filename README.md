@@ -130,11 +130,10 @@ p.note { display: none; }
 
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1735568700731!6m8!1m7!1sR5WnHiN7crSyADjdekxmLw!2m2!1d20.19968264529202!2d99.91643906314647!3f203.25168652116605!4f-3.4229058517879025!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
 
-<h2><span class="yellow">You can see GoogleMaps to click map ↓</span></h2>
-<a href="https://www.google.com/maps/place/ครัวลุงฉ่ำ/@20.1941923,99.8602103,12.35z/data=!4m6!3m5!1s0x30d657ce85f2b131:0xb9eadadd676eb63!8m2!3d20.1994508!4d99.9162554!16s%2Fg%2F11cn9lcjvh!5m1!1e2?authuser=0&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241230_001.png" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">今回訪れたお店は、新しすぎてGoogleMapsには反映されてませんね〜 ↓</span></h2>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1735641684920!6m8!1m7!1siogSegP1pJiqrTgnYxB8sQ!2m2!1d20.1390599361458!2d99.85653229469605!3f316.1202745966913!4f0.017449314095827617!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 <h2><span class="yellow">現地の近場の足は原付レベルですが、こちらに住み着いた白人さんたちの足は大型バイクが多いようです !</span></h2>
