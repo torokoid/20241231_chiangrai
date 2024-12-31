@@ -169,7 +169,9 @@ p.note { display: none; }
 
 
 <br><br><br>
-
+<h2><span class="yellow">
+<a href="https://torokoid.github.io/20241126_chiangrai/" target="_blank">Back to the menu page</a>
+</span></h2>
 
 
 <br><br><br>
