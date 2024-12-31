@@ -143,13 +143,21 @@ p.note { display: none; }
 <h2><span class="yellow">ここから規模の大きな雑貨屋さん情報 !</span></h2>
 <a href="20241231_003.JPG" target="_blank"><img src="20241231_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241231_004.JPG" target="_blank"><img src="20241231_004.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">電卓はCALAO !</span></h2>
 <a href="20241231_005.JPG" target="_blank"><img src="20241231_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">車のエンブレムを張り替えるニーズ有り？!</span></h2>
 <a href="20241231_006.JPG" target="_blank"><img src="20241231_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">こちらは仏壇関連グッズ !</span></h2>
 <a href="20241231_007.JPG" target="_blank"><img src="20241231_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241231_008.JPG" target="_blank"><img src="20241231_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241231_009.JPG" target="_blank"><img src="20241231_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241231_010.JPG" target="_blank"><img src="20241231_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241231_011.JPG" target="_blank"><img src="20241231_011.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">化粧品はタイ仕様ですが、日本語表記を残したまま !</span></h2>
 <a href="20241231_012.JPG" target="_blank"><img src="20241231_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241231_013.JPG" target="_blank"><img src="20241231_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241231_014.JPG" target="_blank"><img src="20241231_014.JPG" alt="サンプル画像" width="900" /></a>
