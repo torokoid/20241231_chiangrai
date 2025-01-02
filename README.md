@@ -154,7 +154,11 @@ p.note { display: none; }
 <a href="20241231_007.JPG" target="_blank"><img src="20241231_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241231_008.JPG" target="_blank"><img src="20241231_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241231_009.JPG" target="_blank"><img src="20241231_009.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">スマホ関連グッズ !</span></h2>
 <a href="20241231_010.JPG" target="_blank"><img src="20241231_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">すべて造花 !</span></h2>
 <a href="20241231_011.JPG" target="_blank"><img src="20241231_011.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">化粧品はタイ仕様ですが、日本語表記を残したまま !</span></h2>
